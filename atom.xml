@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>永生之路</title>
+  
+  <subtitle>探寻生命的奥秘，找到人生的真谛</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://myredeemer.github.io/"/>
+  <updated>2020-04-24T03:06:48.953Z</updated>
+  <id>https://myredeemer.github.io/</id>
+  
+  <author>
+    <name>主的小羊</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Does God Exist?</title>
+    <link href="https://myredeemer.github.io/2019/07/13/godis/"/>
+    <id>https://myredeemer.github.io/2019/07/13/godis/</id>
+    <published>2019-07-14T02:41:48.000Z</published>
+    <updated>2020-04-24T03:06:48.953Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;上帝存在吗？&quot;&gt;&lt;a href=&quot;#上帝存在吗？&quot; class=&quot;headerlink&quot; title=&quot;上帝存在吗？&quot;&gt;&lt;/a&gt;上帝存在吗？&lt;/h2&gt;&lt;h3 id=&quot;自然启示&quot;&gt;&lt;a href=&quot;#自然启示&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="神" scheme="https://myredeemer.github.io/categories/%E7%A5%9E/"/>
+    
+    
+      <category term="神" scheme="https://myredeemer.github.io/tags/%E7%A5%9E/"/>
+    
+      <category term="上帝" scheme="https://myredeemer.github.io/tags/%E4%B8%8A%E5%B8%9D/"/>
+    
+      <category term="创造论" scheme="https://myredeemer.github.io/tags/%E5%88%9B%E9%80%A0%E8%AE%BA/"/>
+    
+      <category term="进化论" scheme="https://myredeemer.github.io/tags/%E8%BF%9B%E5%8C%96%E8%AE%BA/"/>
+    
+  </entry>
+  
+</feed>
