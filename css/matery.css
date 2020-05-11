@@ -635,7 +635,7 @@ header .go-back i {
     font-size: 1.5rem;
     line-height: 2.4em;
     color: rgb(255, 255, 255); /* 副标题字体与文章POST标题颜色*/
-    /*background-color:rgb(230, 238, 240);*/
+    /*background-color:  rgba(131, 11, 21, 0.2); lorence*/
 }
 
 /* POST标题 字体大小 lorence颜色 */
@@ -643,7 +643,8 @@ header .go-back i {
     margin: 0 auto;
     font-size: 2.5rem;
     font-weight: 400;
-    color: rgb(129, 0, 0);
+    color: rgb(255, 255, 255);
+    /*background-color:  rgba(131, 11, 21, 0.2); lorence*/
 }
 
 @-webkit-keyframes rainbow {
